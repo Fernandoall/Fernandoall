@@ -1,11 +1,11 @@
 <h1 align="center">Fernando Gomes</h1>
 
 <p align="center">
-  Desenvolvedor em formação | ADS | Foco em Backend
+  Desenvolvedor em formação | Backend
 </p>
 
 <p align="center">
-  TypeScript • JavaScript • Node.js
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=TypeScript+%7C+JavaScript+%7C+Node.js;Foco+em+Backend+e+APIs;Construindo+projetos+reais" />
 </p>
 
 ---
@@ -14,17 +14,13 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, atuando principalmente com JavaScript, TypeScript e Node.js.
 
-Tenho experiência prática com projetos acadêmicos e aplicações próprias, com interesse em backend, APIs e organização de sistemas.
+Interesse em backend, construção de APIs e organização de aplicações.
 
 ---
 
 ## Stack
 
-- TypeScript
-- JavaScript
-- Node.js
-- HTML / CSS
-- Git
+TypeScript • JavaScript • Node.js • HTML • CSS • Git
 
 ---
 
@@ -38,22 +34,24 @@ Git         ███████░░░░ 70%
 
 ---
 
-## Projetos em Destaque
+## Projetos Ativos
 
 **InglEJA**  
-Projeto ativo voltado ao desenvolvimento web com aplicação prática de TypeScript e JavaScript.
+Aplicação web com foco em uso prático de TypeScript e organização de lógica.
 
 **CIOT**  
-Projeto em desenvolvimento com foco em estruturação de código e organização de aplicação.
+Projeto em desenvolvimento com foco em estrutura de código e evolução contínua.
 
 ---
 
-## Objetivo
+## Atividade
 
-Evoluir como desenvolvedor backend, com foco em APIs, arquitetura e boas práticas de desenvolvimento.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fernandoall&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## Contato
-[
+
 LinkedIn: https://www.linkedin.com/in/fernando--gomes/

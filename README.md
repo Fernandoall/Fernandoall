@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Fernando Gomes</h1>
 
-<!--
-**Fernandoall/Fernandoall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor em formação | ADS | Foco em Backend
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  TypeScript • JavaScript • Node.js
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, atuando principalmente com JavaScript, TypeScript e Node.js.
+
+Tenho experiência prática com projetos acadêmicos e aplicações próprias, com interesse em backend, APIs e organização de sistemas.
+
+---
+
+## Stack
+
+- TypeScript
+- JavaScript
+- Node.js
+- HTML / CSS
+- Git
+
+---
+
+## Skills
+
+TypeScript  █████████░░ 80%  
+JavaScript  █████████░░ 80%  
+Node.js     ████████░░░ 75%  
+HTML/CSS    ███████░░░░ 70%  
+Git         ███████░░░░ 70%  
+
+---
+
+## Projetos em Destaque
+
+**InglEJA**  
+Projeto ativo voltado ao desenvolvimento web com aplicação prática de TypeScript e JavaScript.
+
+**CIOT**  
+Projeto em desenvolvimento com foco em estruturação de código e organização de aplicação.
+
+---
+
+## Objetivo
+
+Evoluir como desenvolvedor backend, com foco em APIs, arquitetura e boas práticas de desenvolvimento.
+
+---
+
+## Contato
+[
+LinkedIn: https://www.linkedin.com/in/fernando--gomes/
